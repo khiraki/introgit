@@ -1,1 +1,3 @@
 Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
+Egit add
+Egit commit
